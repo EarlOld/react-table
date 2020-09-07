@@ -1,5 +1,5 @@
 {
-  "name": "rc-table",
+  "name": "rc-table-with-infinity-scroller",
   "version": "6.3.3",
   "description": "table ui component for react",
   "keywords": [
