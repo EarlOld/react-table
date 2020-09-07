@@ -30,6 +30,7 @@
     "url": "http://github.com/react-component/table/issues"
   },
   "license": "MIT",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "config": {
     "port": 8000,
     "entry": {
